@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/0001-two-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/0001-two-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
