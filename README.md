@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nyshakatiyar/Leetcode/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nyshakatiyar/Leetcode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/nyshakatiyar/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
