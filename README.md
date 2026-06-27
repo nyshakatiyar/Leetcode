@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/0001-two-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nyshakatiyar/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nyshakatiyar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nyshakatiyar/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nyshakatiyar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nyshakatiyar/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
