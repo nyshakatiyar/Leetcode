@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nyshakatiyar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nyshakatiyar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nyshakatiyar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nyshakatiyar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nyshakatiyar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nyshakatiyar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nyshakatiyar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nyshakatiyar/Leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nyshakatiyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/nyshakatiyar/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nyshakatiyar/Leetcode/tree/master/2029-stone-game-ix) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/nyshakatiyar/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nyshakatiyar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/nyshakatiyar/Leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nyshakatiyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nyshakatiyar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nyshakatiyar/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nyshakatiyar/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nyshakatiyar/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nyshakatiyar/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nyshakatiyar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nyshakatiyar/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nyshakatiyar/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -401,4 +407,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nyshakatiyar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nyshakatiyar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nyshakatiyar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
