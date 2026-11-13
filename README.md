@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/nyshakatiyar/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nyshakatiyar/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nyshakatiyar/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nyshakatiyar/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nyshakatiyar/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nyshakatiyar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nyshakatiyar/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/nyshakatiyar/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nyshakatiyar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nyshakatiyar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -370,10 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nyshakatiyar/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nyshakatiyar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nyshakatiyar/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nyshakatiyar/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -455,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nyshakatiyar/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nyshakatiyar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
